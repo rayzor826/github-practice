@@ -1,0 +1,22 @@
+*{
+    box-sizing: border-box;
+}
+
+
+
+body {
+    background-color: red;
+    margin: 0;
+}
+
+.container{
+    
+}
+
+.column{
+    border: 4px solid black;
+    float: left;
+    width: 25%;
+    background-color: gold;
+    padding: 50px;
+}
